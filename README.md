@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there 👋, I'm Robert Quesada</h1>
 <h3 align="center">Full Stack Developer & Creative IT Professional | Founder of Ithakidev</h3>
 
@@ -33,6 +31,21 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+#### 🛠️ IT & DevOps
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Puppet](https://img.shields.io/badge/-Puppet-FFAE1A?style=flat&logo=puppet&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-17A2B8?style=flat&logo=githubactions&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-006400?style=flat&logo=networkx&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=fortinet&logoColor=white)
+
+
 #### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -49,6 +62,10 @@
 
 ---
 
+### 🏅 Certifications
+- View my verified certifications on [Credly](https://www.credly.com/users/robert-quesada-quesada)
+
+---
 
 Thanks for stopping by! 🙌  
 Let’s build something awesome together.
