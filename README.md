@@ -62,8 +62,8 @@
 
 ### 📫 Contact Me
 - ✉️ Email: rquesadaqq@outlook.com 
-- 💼 LinkedIn: ([https://linkedin.com/in/ithakidev](https://www.linkedin.com/in/robert-quesada-b7a375215/))  
-- 🌐 Portfolio: (([https://ithakidev.com](https://ithaki-dev.github.io/my-digital-presence/))
+- 💼 LinkedIn: [https://linkedin.com/in/ithakidev](https://www.linkedin.com/in/robert-quesada-b7a375215/)
+- 🌐 Portfolio: [https://ithakidev.com](https://ithaki-dev.github.io/my-digital-presence/)
 
 ---
 
