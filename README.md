@@ -25,7 +25,7 @@
 
 #### ⚙️ Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=pocoo&logoColor=white)
 ![Jinja](https://img.shields.io/badge/-Jinja-FFC107?style=flat&logo=jinja&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
