@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0EA5E9,100:22D3EE&text=Robert%20Quesada&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20IT%20%26%20Cloud%20%E2%80%A2%20Founder%20of%20IthakiDev&descAlignY=60&animation=fadeIn)
+<h1>Hi there, I'm Robert Quesada 👋</h1>
+<h3>Full Stack Developer · IT & Cloud · Founder of IthakiDev</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+reliable+digital+experiences;Turning+ideas+into+clean%2C+useful+products;Learning%2C+creating%2C+and+improving+every+day)](https://git.io/typing-svg)
 
@@ -83,7 +84,7 @@ I'm a **Full Stack Developer and creative IT professional** from Costa Rica. I e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ithaki-dev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github" alt="Robert's GitHub statistics" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ithaki-dev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github" alt="Robert's GitHub statistics" />
 <img height="170" src="https://streak-stats.demolab.com?user=Ithaki-dev&hide_border=true&background=0F172A&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Robert's GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ithaki-dev&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Robert's contribution graph" />
