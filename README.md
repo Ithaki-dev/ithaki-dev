@@ -84,17 +84,23 @@ I'm a **Full Stack Developer and creative IT professional** from Costa Rica. I e
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Hackatime Coding Statistics -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ithaki-dev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github&cache_seconds=86400" alt="Robert's GitHub statistics" />
 
+<!-- Hackatime Activity Graph -->
+<img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=Ithaki-dev&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Hackatime contribution graph" />
+
+<!-- Hackatime Coding Stats (Extended) -->
+<img height="160" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5246&api_domain=hackatime.hackclub.com&custom_title=Hackatime%20Coding%20Stats&layout=compact&cache_seconds=3600&langs_count=8&theme=transparent" alt="Hackatime coding statistics" />
+
+<!-- GitHub Stats (Official) -->
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=Ithaki-dev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=CBD5E1&rank_icon=github&cache_seconds=86400" alt="Robert's GitHub statistics" />
+
 <!-- GitHub Streak -->
-<img height="150" src="https://streak-stats.demolab.com?user=Ithaki-dev&hide_border=true&background=0F172A&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Robert's GitHub streak" />
+<img height="120" src="https://streak-stats.demolab.com?user=Ithaki-dev&hide_border=true&background=0F172A&ring=22D3EE&fire=0EA5E9&currStreakNum=F8FAFC&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Robert's GitHub streak" />
 
-<!-- GitHub Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ithaki-dev&bg_color=0F172A&color=CBD5E1&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Robert's contribution graph" />
 
-<!-- Top Languages -->
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ithaki-dev&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=0EA5E9&text_color=CBD5E1&layout=compact&cache_seconds=86400" alt="Top languages
+<!-- Certifications -->
 <p><strong>Certifications:</strong> My verified certifications and badges are available on <a href="https://www.credly.com/users/robert-quesada-quesada">Credly</a>.</p>
 
 <!-- Portfolio -->
