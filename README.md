@@ -87,6 +87,8 @@ I'm a **Full Stack Developer and creative IT professional** from Costa Rica. I e
 <!-- Hackatime Coding Stats (Extended) -->
 <img height="160" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=5246&api_domain=hackatime.hackclub.com&custom_title=Hackatime%20Coding%20Stats&layout=compact&cache_seconds=3600&langs_count=8&theme=transparent" alt="Hackatime coding statistics" />
 
+<br/>
+
 
 <!-- GitHub Streak -->
 <img height="120" src="https://streak-stats.demolab.com?user=Ithaki-dev&hide_border=true&background=0F172A&ring=22D3EE&fire=0EA5E9&currStreakNum=F8FAFC&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Robert's GitHub streak" />
